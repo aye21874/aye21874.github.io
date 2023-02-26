@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I am Ayush Sinha. I am a budding professional at the intersection of Data and Computer Science. As you could have guessed, my work 
-revolves around utilizing skills from both these worlds to develop interesting solutions, investigate my interests in Machine Learning or explore technologies.
+Hi there, I am Ayush Sinha. I am a budding professional at the intersection of Data and Computer Science. As you could have guessed, my work revolves around utilizing skills from both these worlds to develop interesting solutions, investigate my interests in Machine Learning or explore technologies.   
 Apart from my professional endeavours I like to partake in writing and playing chess!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
