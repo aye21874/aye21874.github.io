@@ -5,6 +5,7 @@ description: another without an image
 img:
 importance: 3
 category: fun
+exclude: True
 ---
 
 Every project has a beautiful feature showcase page.
