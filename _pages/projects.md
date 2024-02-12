@@ -5,7 +5,7 @@ permalink: /projects/
 description: Check out my projects here!
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: False
 horizontal: false
 exclude: false
 ---
