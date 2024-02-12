@@ -1,16 +1,15 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Check out my projects here!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 exclude: false
 ---
 
-pages/projects.md
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -51,7 +50,9 @@ pages/projects.md
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
+      {%- if project.exclude -%}
       {% include projects.html %}
+      {%- endif -%}
     {%- endfor %}
   </div>
   {%- endif -%}
