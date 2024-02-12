@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
-exclude: True
+title: project 3
+description: a project that redirects to another website
+img: assets/img/RRG_dp.png
+redirect: https://github.com/VijayKalmath/Radiology-Report-Genration-using-MultiModal-PrototypeNetwork
+importance: 1
+category: work
+exclude: false
 ---
 
 Every project has a beautiful feature showcase page.

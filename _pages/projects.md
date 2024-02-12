@@ -50,9 +50,7 @@ exclude: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {%- if project.exclude -%}
       {% include projects.html %}
-      {%- endif -%}
     {%- endfor %}
   </div>
   {%- endif -%}
