@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Multimodal Radiology Report Generation
+description: Generating radiology reports by utilizing Chest X-Rays and text from previous radiology reports
 img: assets/img/RRG_dp.png
 redirect: https://github.com/VijayKalmath/Radiology-Report-Genration-using-MultiModal-PrototypeNetwork
 importance: 1
