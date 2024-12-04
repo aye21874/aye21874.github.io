@@ -114,9 +114,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ayush's Travels through time # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: My thoughts 
+blog_name: Thoughts & Prayers # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Catalogue of ideas and insights!
 permalink: /blog/:year/:title/
 
 # Pagination
