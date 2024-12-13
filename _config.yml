@@ -114,9 +114,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Thoughts & Prayers # blog_name will be displayed in your blog page
+blog_name:  Hamlet # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Catalogue of ideas and insights!
+blog_description: Welcome to my blog, I usually write on topics that interest me here, and hope it is meaningful to you in some way.
 permalink: /blog/:year/:title/
 
 # Pagination
