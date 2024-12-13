@@ -47,12 +47,17 @@ A new principle added by the authors:
 Regulations help in enforcing the foundations of such ethical principles and have to be kept up to speed with the fast changing landscape of AI. Regulatory bodies such as the Food and Drug Administration have shown interest and released its guidelines to regulate clinical AI decision tools [14].  
 There is a need for operationalizing the ethical principles to be applied in the stages of development and deployment of an AI/ML application. Researchers such as Danton S. Char et. al. [15] provides a pipeline model framework that provides developers with a tool to consider ethical questions and decisions throughout the stages of development of an AI/ML solution in healthcare. These stages include conception, development, calibration and implementation.  
 This framework additionally facilitates interdisciplinary dialogue and collaboration to manage and understand the implications once such an AI/ML solution is implemented. Efforts such as the one outlined above are needed to mitigate our ethical concerns in practice    
-## Conclusion    
+
+## Conclusion  
+  
 The advent of novel AI/ML solutions in the space of healthcare has brought with it the need to understand and address the related ethical implications. Well established bioethical principles along with new principles have been proposed to characterize and under- stand these issues. This in no way means that the principles are sound and comprehensive as the applications themselves are relatively new.
 AI and ML tools and solutions will change the way we think, behave and operate in healthcare and thus an evolving ethical framework to preserve the bioethical principles is ever necessary.  
 Bias already existed in medical procedures and applications before the age of AI. The new solutions being offered should be aimed at reducing bias instead of magnifying it. Moreover, new sources of bias have to be controlled.  
 It is all the more necessary to highlight the fact that AI and ML breakthroughs bring with them the promise of reducing bias, increasing access, and the immense value of improvement in healthcare. We benefit from not shunning or dissuading their development, but instead striving to make them conform to our human ethical principles.  
+  
+
 ## References  
+  
 [1] AI Market. urlhttps://www.bloomberg.com/press-releases/2022-06-13/artificial- intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0- valuates-reports.  
 [2] Marco V. Perez et al. “Large-Scale Assessment of a Smartwatch to Identify Atrial Fibrillation”. In: New England Journal of Medicine 381.20 (2019). PMID: 31722151, pp. 1909–1917. DOI: 10 . 1056 / NEJMoa1901183. eprint: https : / / doi . org/10.1056/NEJMoa1901183.URL:https://doi.org/10.1056/ NEJMoa1901183.  
 [3] David Magnus PhD. Ethics of AI in healthcare. Youtube. 2021. URL: https://www. youtube.com/watch?v=Irg3jGxa6HM&t=3132s.  
