@@ -72,4 +72,4 @@ It is all the more necessary to highlight the fact that AI and ML breakthroughs 
 [12] What are the Basic Principles of Medical Ethics? http : / / web . stanford . edu / class / siw198q / websites / reprotech / New % 20Ways % 20of % 20Making % 20Babies/EthicVoc.htm.  
 [13] Luciano Floridi and Josh Cowls. “A Unified Framework of Five Principles for AI in Society”. In: Harvard Data Science Review 1.1 (July 2019). https://hdsr.mitpress.mit.edu/pub/l  
 [14] FDA Releases Guidance on AI-Driven Clinical Decision Support Tools. urlhttps://healthitanalytics releases-guidance-on-ai-driven-clinical-decision-support-tools.  
-[15] Danton Char, Michael David Abràmoff, and Chris Feudtner. “Identifying Ethical Considerations for Machine Learning Healthcare Applications”. In: The American Journal of Bioethics 20 (2020), pp. 7–17.  
+[15] Danton Char, Michael David Abràmoff, and Chris Feudtner. “Identifying Ethical Considerations for Machine Learning Healthcare Applications”. In: The American Journal of Bioethics 20 (2020), pp. 7–17.    
